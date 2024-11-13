@@ -1,0 +1,15 @@
+D:\SHEVA\crossplatform\crossplatform\Lab1\Lab1\bin\Debug\net8.0\Lab1.exe
+D:\SHEVA\crossplatform\crossplatform\Lab1\Lab1\bin\Debug\net8.0\Lab1.deps.json
+D:\SHEVA\crossplatform\crossplatform\Lab1\Lab1\bin\Debug\net8.0\Lab1.runtimeconfig.json
+D:\SHEVA\crossplatform\crossplatform\Lab1\Lab1\bin\Debug\net8.0\Lab1.dll
+D:\SHEVA\crossplatform\crossplatform\Lab1\Lab1\bin\Debug\net8.0\Lab1.pdb
+D:\SHEVA\crossplatform\crossplatform\Lab1\Lab1\obj\Debug\net8.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\SHEVA\crossplatform\crossplatform\Lab1\Lab1\obj\Debug\net8.0\Lab1.AssemblyInfoInputs.cache
+D:\SHEVA\crossplatform\crossplatform\Lab1\Lab1\obj\Debug\net8.0\Lab1.AssemblyInfo.cs
+D:\SHEVA\crossplatform\crossplatform\Lab1\Lab1\obj\Debug\net8.0\Lab1.csproj.CoreCompileInputs.cache
+D:\SHEVA\crossplatform\crossplatform\Lab1\Lab1\obj\Debug\net8.0\Lab1.sourcelink.json
+D:\SHEVA\crossplatform\crossplatform\Lab1\Lab1\obj\Debug\net8.0\Lab1.dll
+D:\SHEVA\crossplatform\crossplatform\Lab1\Lab1\obj\Debug\net8.0\refint\Lab1.dll
+D:\SHEVA\crossplatform\crossplatform\Lab1\Lab1\obj\Debug\net8.0\Lab1.pdb
+D:\SHEVA\crossplatform\crossplatform\Lab1\Lab1\obj\Debug\net8.0\Lab1.genruntimeconfig.cache
+D:\SHEVA\crossplatform\crossplatform\Lab1\Lab1\obj\Debug\net8.0\ref\Lab1.dll
